@@ -1,12 +1,16 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  /* background-color: #011F3F; */
+  background-image: url("back.jpg");
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  background-size: cover;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5%;
+  margin: 5%;
   color: #FEF2BF;
 }
 
